@@ -1,4 +1,4 @@
-# FooterScrollViewDemo
+# Scrollable Footer View
 
 This project demonstrates showing and hiding a bottom footer upon tap.
 
